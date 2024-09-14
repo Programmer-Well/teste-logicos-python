@@ -28,4 +28,4 @@ Este repositório contém cinco scripts Python que resolvem diferentes desafios 
 - Solicita ao usuário que insira uma palavra.
 - Inverte a palavra inserida pelo usuário.
 - Exibe a palavra invertida.
-- Continua solicitando novas palavras até que o usuário insira uma string vazia. 
+- Continua solicitando novas palavras. 
